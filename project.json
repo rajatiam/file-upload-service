@@ -1,0 +1,8 @@
+{
+  "number": 9,
+  "name": "File upload service",
+  "slug": "file-upload-service",
+  "level": "Beginner",
+  "description": "Upload and download files with validation and size limits.",
+  "status": "planning"
+}
